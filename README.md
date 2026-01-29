@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kalyelton Vieira
+# Hi, I'm Kalyelton Vieira 👋
 
 🟢 **About Me**  
 I'm a Software Engineering student currently learning **Python** and **SQL**, with a growing interest in **Data Science** and **data analysis**.  
