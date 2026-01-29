@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🟢 About Me
 
-<!--
-**kalyeltonvieira/kalyeltonvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student currently learning Python and SQL, with a growing interest in Data Science and data analysis.
 
-Here are some ideas to get you started:
+I'm focused on building a strong foundation in programming, problem-solving, and analytical thinking through hands-on practice and small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Interests
+- Data Science
+- Software Development
+- Programming fundamentals
+- Continuous learning
+
+---
+
+## 📡 Contact
+- LinkedIn: https://www.linkedin.com/in/kalyeltonvieira
+- GitHub: https://github.com/KalyeltonVieira
