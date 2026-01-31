@@ -30,3 +30,4 @@ I’m focused on building a strong foundation in programming, problem-solving, a
 📡 **Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyeltonvieira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalyeltonvieira)
+[![Site](https://img.shields.io/badge/Site-000000?style=flat&logo=google-chrome&logoColor=white)](https://kalyelton.netlify.app)
