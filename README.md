@@ -22,7 +22,7 @@ I’m focused on building a strong foundation in programming, problem-solving, a
 ---
 
 📂 **Projects**
-- [Data Analysis with Python](https://github.com/kalyeltonvieira/aprendendopython)  
+- [Aprendendo Python](https://github.com/kalyeltonvieira/aprendendopython)  
 - [SQL Practice Exercises](https://github.com/kalyeltonvieira/aprendendopython)
 
 ---
