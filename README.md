@@ -36,7 +36,6 @@ I’m focused on building a strong foundation in programming, problem-solving, a
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/66o1m8.mp4"  />
 
 ###
 
