@@ -2,21 +2,18 @@
 
 # Kalyelton Vieira
 
-**Engenharia de Software · Desenvolvimento · Dados**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161616&height=140&section=header&text=KALYELTON&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+### Programador | Cibersegurança
 
 <br>
 
 <p>
-  <strong>Construindo conhecimento através de código.</strong>
+  Desenvolvedor em formação, apaixonado por tecnologia,<br>
+  programação, segurança e construção de sistemas.
 </p>
 
-<p>
-  Python · SQL · Desenvolvimento de Software · Ciência de Dados
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -24,39 +21,53 @@
 
 <div align="center">
 
-## Sobre
+## Sobre mim
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<h3>Formação</h3>
-
-<p>
-Estudante de <strong>Engenharia de Software</strong>, desenvolvendo uma base sólida em programação, lógica, desenvolvimento e resolução de problemas.
-</p>
-
-</td>
 
 <td width="50%" valign="top">
 
-<h3>Atualmente</h3>
+### Programação
 
-<p>
-Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong>, enquanto exploro análise de dados e Ciência de Dados.
-</p>
-
-</td>
-</tr>
-</table>
+Construindo minha experiência em desenvolvimento de software, lógica de programação e criação de projetos.
 
 <br>
 
+Atualmente estudando **Python, SQL, JavaScript e TypeScript**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Cibersegurança
+
+Explorando segurança da informação, sistemas, redes, vulnerabilidades e os fundamentos necessários para desenvolver software mais seguro.
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-## Áreas de interesse
+## Tecnologias
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs,sql,git,github,linux&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Foco
 
 <br>
 
@@ -64,7 +75,8 @@ Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong
 <tr>
 
 <td align="center" width="180">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
 <br><br>
 
@@ -77,20 +89,22 @@ Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong
 </td>
 
 <td align="center" width="180">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
 <br><br>
 
-<strong>SQL</strong>
+<strong>Linux</strong>
 
 <br>
 
-<sub>Dados</sub>
+<sub>Sistemas</sub>
 
 </td>
 
 <td align="center" width="180">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 
 <br><br>
 
@@ -104,32 +118,20 @@ Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong
 
 <td align="center" width="180">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 
 <br><br>
 
-<strong>Software</strong>
+<strong>SQL</strong>
 
 <br>
 
-<sub>Desenvolvimento</sub>
+<sub>Banco de dados</sub>
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,sql,js,ts,react,html,css,cs,git,github&theme=dark"/>
 
 </div>
 
@@ -146,11 +148,9 @@ Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong
 
 <td width="50%" valign="top">
 
-<h3>Aprendendo Python</h3>
+### Aprendendo Python
 
-<p>
-Repositório dedicado aos meus estudos, exercícios e experimentos com Python.
-</p>
+Estudos, exercícios e projetos desenvolvidos durante minha evolução com Python.
 
 <br>
 
@@ -162,11 +162,9 @@ Repositório dedicado aos meus estudos, exercícios e experimentos com Python.
 
 <td width="50%" valign="top">
 
-<h3>SQL Practice</h3>
+### Estudos de SQL
 
-<p>
-Exercícios e práticas envolvendo SQL, consultas, bancos de dados e manipulação de informações.
-</p>
+Práticas com consultas, bancos de dados e manipulação de informações.
 
 <br>
 
@@ -183,27 +181,18 @@ Exercícios e práticas envolvendo SQL, consultas, bancos de dados e manipulaç�
 
 <div align="center">
 
-## Trajetória
+## Engenharia de Software
 
 <br>
 
-<table>
-<tr>
-<td align="center"><strong>01</strong><br><sub>Fundamentos</sub></td>
-<td>→</td>
-<td align="center"><strong>02</strong><br><sub>Programação</sub></td>
-<td>→</td>
-<td align="center"><strong>03</strong><br><sub>Python + SQL</sub></td>
-<td>→</td>
-<td align="center"><strong>04</strong><br><sub>Projetos</sub></td>
-<td>→</td>
-<td align="center"><strong>05</strong><br><sub>Dados</sub></td>
-</tr>
-</table>
+<strong>Programação</strong>
+  ·   <strong>Sistemas</strong>
+  ·   <strong>Dados</strong>
+  ·   <strong>Cibersegurança</strong>
 
-<br>
+<br><br>
 
-<sub>Aprender. Construir. Evoluir.</sub>
+<sub>Aprender · Construir · Proteger</sub>
 
 </div>
 
@@ -229,6 +218,6 @@ Exercícios e práticas envolvendo SQL, consultas, bancos de dados e manipulaç�
 
 <br><br>
 
-<sub>Kalyelton Vieira · Engenharia de Software</sub>
+<sub>Kalyelton Vieira · Programador | Cibersegurança</sub>
 
 </div>
