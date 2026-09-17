@@ -1,58 +1,234 @@
-# Hi, I'm Kalyelton Vieira 👋
+<div align="center">
 
-🟢 **About Me**  
-I'm a Software Engineering student currently learning **Python** and **SQL**, with a growing interest in **Data Science** and **data analysis**.  
-I’m focused on building a strong foundation in programming, problem-solving, and analytical thinking through hands-on practice and small projects.
+# Kalyelton Vieira
 
----
+**Engenharia de Software · Desenvolvimento · Dados**
 
-🎯 **Interests**
-- Data Science  
-- Software Development  
-- Programming Fundamentals  
-- Continuous Learning  
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161616&height=140&section=header&text=KALYELTON&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-💻 **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br>
 
----
+<p>
+  <strong>Construindo conhecimento através de código.</strong>
+</p>
 
-📂 **Projects**
-- [Aprendendo Python](https://github.com/kalyeltonvieira/aprendendopython)  
-- [SQL Practice Exercises](https://github.com/kalyeltonvieira/aprendendopython)
+<p>
+  Python · SQL · Desenvolvimento de Software · Ciência de Dados
+</p>
 
----
-
-📡 **Contact**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyeltonvieira)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalyeltonvieira)
-[![Site](https://img.shields.io/badge/Site-000000?style=flat&logo=google-chrome&logoColor=white)](https://kalyelton.netlify.app)
-
-
-
-###
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+---
+
+<div align="center">
+
+## Sobre
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>Formação</h3>
+
+<p>
+Estudante de <strong>Engenharia de Software</strong>, desenvolvendo uma base sólida em programação, lógica, desenvolvimento e resolução de problemas.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Atualmente</h3>
+
+<p>
+Aprofundando meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong>, enquanto exploro análise de dados e Ciência de Dados.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## Áreas de interesse
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+
+<br><br>
+
+<strong>Python</strong>
+
+<br>
+
+<sub>Programação</sub>
+
+</td>
+
+<td align="center" width="180">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+
+<br><br>
+
+<strong>SQL</strong>
+
+<br>
+
+<sub>Dados</sub>
+
+</td>
+
+<td align="center" width="180">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+
+<br><br>
+
+<strong>Git</strong>
+
+<br>
+
+<sub>Versionamento</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+
+<br><br>
+
+<strong>Software</strong>
+
+<br>
+
+<sub>Desenvolvimento</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,sql,js,ts,react,html,css,cs,git,github&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Projetos
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Aprendendo Python</h3>
+
+<p>
+Repositório dedicado aos meus estudos, exercícios e experimentos com Python.
+</p>
+
+<br>
+
+<a href="https://github.com/kalyeltonvieira/aprendendopython">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>SQL Practice</h3>
+
+<p>
+Exercícios e práticas envolvendo SQL, consultas, bancos de dados e manipulação de informações.
+</p>
+
+<br>
+
+<a href="https://github.com/kalyeltonvieira/aprendendopython">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Trajetória
+
+<br>
+
+<table>
+<tr>
+<td align="center"><strong>01</strong><br><sub>Fundamentos</sub></td>
+<td>→</td>
+<td align="center"><strong>02</strong><br><sub>Programação</sub></td>
+<td>→</td>
+<td align="center"><strong>03</strong><br><sub>Python + SQL</sub></td>
+<td>→</td>
+<td align="center"><strong>04</strong><br><sub>Projetos</sub></td>
+<td>→</td>
+<td align="center"><strong>05</strong><br><sub>Dados</sub></td>
+</tr>
+</table>
+
+<br>
+
+<sub>Aprender. Construir. Evoluir.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## Contato
+
+<br>
+
+<a href="https://www.linkedin.com/in/kalyeltonvieira">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/kalyeltonvieira">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+<a href="https://kalyelton.netlify.app">
+<img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<sub>Kalyelton Vieira · Engenharia de Software</sub>
+
+</div>
