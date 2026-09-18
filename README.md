@@ -7,7 +7,7 @@
 <br>
 
 <p>
-  Desenvolvedor em formação, apaixonado por tecnologia,<br>
+  Desenvolvedor apaixonado por tecnologia,<br>
   programação, segurança e construção de sistemas.
 </p>
 
