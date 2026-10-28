@@ -1,19 +1,25 @@
-<div align="center">
+ <div align="center">
 
 # Kalyelton Vieira
 
-### Programador | Cibersegurança
+### `PROGRAMADOR` · `CIBERSEGURANÇA`
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,35:242424,65:777777,100:E5E5E5&fontColor=FFFFFF&section=header&text=KALYELTON%20VIEIRA&fontSize=32&fontAlignY=40&desc=CODE%20%7C%20SYSTEMS%20%7C%20SECURITY&descAlignY=60&descSize=13" width="100%"/>
 
 <p>
-  Desenvolvedor apaixonado por tecnologia,<br>
+  Desenvolvedor apaixonado por tecnologia,<br/>
   programação, segurança e construção de sistemas.
 </p>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:171717&height=120&section=header&text=&fontSize=0" width="100%"/>
+<a href="https://github.com/kalyeltonvieira">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+<a href="https://www.linkedin.com/in/kalyeltonvieira">
+  <img src="https://img.shields.io/badge/LinkedIn-262626?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+<a href="https://kalyelton.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-737373?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+</a>
 
 </div>
 
@@ -21,33 +27,36 @@
 
 <div align="center">
 
-## Sobre mim
+## ◈ SOBRE MIM
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Programação
+### ⌘ Programação
 
 Construindo minha experiência em desenvolvimento de software, lógica de programação e criação de projetos.
 
-<br>
-
-Atualmente estudando **Python, SQL, JavaScript e TypeScript**.
+- Desenvolvimento com Python
+- Versionamento com Git
+- Repositórios e colaboração com GitHub
+- Criação e evolução de projetos
 
 </td>
-
 <td width="50%" valign="top">
 
-### Cibersegurança
+### ⛨ Cibersegurança
 
-Explorando segurança da informação, sistemas, redes, vulnerabilidades e os fundamentos necessários para desenvolver software mais seguro.
+Explorando segurança da informação, sistemas, redes e vulnerabilidades para compreender como desenvolver e manter aplicações mais seguras.
+
+- Fundamentos de segurança
+- Sistemas e redes
+- Boas práticas de desenvolvimento
+- Segurança em ambientes autorizados
 
 </td>
-
 </tr>
 </table>
 
@@ -55,11 +64,19 @@ Explorando segurança da informação, sistemas, redes, vulnerabilidades e os fu
 
 <div align="center">
 
-## Tecnologias
+## ◈ STACK TECNOLÓGICA
 
-<br>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs,sql,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,supabase,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GIT-262626?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-404040?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SUPABASE-595959?style=for-the-badge&logo=supabase&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VERCEL-737373?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 
 </div>
 
@@ -67,69 +84,54 @@ Explorando segurança da informação, sistemas, redes, vulnerabilidades e os fu
 
 <div align="center">
 
-## Foco
-
-<br>
+## ◈ ÁREAS DE FOCO
 
 <table>
 <tr>
-
 <td align="center" width="180">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
 
-<br><br>
+<br/><br/>
 
-<strong>Python</strong>
-
-<br>
+**PYTHON**
 
 <sub>Programação</sub>
 
 </td>
-
 <td align="center" width="180">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 
-<br><br>
+<br/><br/>
 
-<strong>Linux</strong>
-
-<br>
-
-<sub>Sistemas</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
-<br><br>
-
-<strong>Git</strong>
-
-<br>
+**GIT**
 
 <sub>Versionamento</sub>
 
 </td>
-
 <td align="center" width="180">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 
-<br><br>
+<br/><br/>
 
-<strong>SQL</strong>
+**GITHUB**
 
-<br>
-
-<sub>Banco de dados</sub>
+<sub>Projetos e código</sub>
 
 </td>
+<td align="center" width="180">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42"/>
+
+<br/><br/>
+
+**SUPABASE**
+
+<sub>Backend e dados</sub>
+
+</td>
 </tr>
 </table>
 
@@ -139,41 +141,38 @@ Explorando segurança da informação, sistemas, redes, vulnerabilidades e os fu
 
 <div align="center">
 
-## Projetos
+## ◈ PROJETOS
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Aprendendo Python
+### `01` · Aprendendo Python
 
 Estudos, exercícios e projetos desenvolvidos durante minha evolução com Python.
 
-<br>
+<br/>
 
 <a href="https://github.com/kalyeltonvieira/aprendendopython">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/VER_PROJETO-262626?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### Estudos de SQL
+### `02` · Projetos e aplicações
 
-Práticas com consultas, bancos de dados e manipulação de informações.
+Espaço para compartilhar aplicações, experimentos e projetos desenvolvidos com as tecnologias que estou estudando.
 
-<br>
+<br/>
 
-<a href="https://github.com/kalyeltonvieira/aprendendopython">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+<a href="https://github.com/kalyeltonvieira">
+  <img src="https://img.shields.io/badge/EXPLORAR_GITHUB-404040?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -181,18 +180,15 @@ Práticas com consultas, bancos de dados e manipulação de informações.
 
 <div align="center">
 
-## Engenharia de Software
+## ◈ FILOSOFIA
 
-<br>
+### `PROGRAMAR. CONSTRUIR. PROTEGER.`
 
-<strong>Programação</strong>
-  ·   <strong>Sistemas</strong>
-  ·   <strong>Dados</strong>
-  ·   <strong>Cibersegurança</strong>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFFFFF,50:777777,100:111111" width="75%"/>
 
-<br><br>
+<br/>
 
-<sub>Aprender · Construir · Proteger</sub>
+<sub>Aprender continuamente · Construir com propósito · Evoluir todos os dias</sub>
 
 </div>
 
@@ -200,24 +196,22 @@ Práticas com consultas, bancos de dados e manipulação de informações.
 
 <div align="center">
 
-## Contato
+## ◈ CONTATO
 
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/kalyeltonvieira">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-262626?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://github.com/kalyeltonvieira">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GITHUB-404040?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://kalyelton.netlify.app">
-<img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/WEBSITE-737373?style=for-the-badge&logo=safari&logoColor=FFFFFF"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<sub>Kalyelton Vieira · Programador | Cibersegurança</sub>
+<sub>Kalyelton Vieira · Programação & Cibersegurança</sub>
 
 </div>
