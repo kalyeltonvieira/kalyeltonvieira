@@ -206,7 +206,7 @@ Espaço para compartilhar aplicações, experimentos e projetos desenvolvidos co
 <a href="https://github.com/kalyeltonvieira">
   <img src="https://img.shields.io/badge/GITHUB-404040?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-<a href="https://kalyelton.netlify.app">
+<a href="https://kalyeltonvieira.github.io/">
   <img src="https://img.shields.io/badge/WEBSITE-737373?style=for-the-badge&logo=safari&logoColor=FFFFFF"/>
 </a>
 
