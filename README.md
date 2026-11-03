@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/kalyeltonvieira">
   <img src="https://img.shields.io/badge/LinkedIn-262626?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-<a href="https://kalyelton.netlify.app">
+<a href="https://kalyeltonvieira.github.io/">
   <img src="https://img.shields.io/badge/PORTFOLIO-737373?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
